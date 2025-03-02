@@ -1,0 +1,12 @@
+        body {
+            margin-top: 20px;
+        }
+        .urgent {
+            background-color: #ffcccc;
+        }
+        .normal {
+            background-color: #ffffcc;
+        }
+        .low {
+            background-color: #d9ffd9;
+        }
